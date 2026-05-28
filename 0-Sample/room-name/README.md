@@ -1,9 +1,13 @@
 # 🔐 [Nom de la Room]
 
 > **Plateforme** : [TryHackMe](https://tryhackme.com/room/SLUG)
+
 > **Difficulté** : `Easy` / `Medium` / `Hard`
+
 > **Catégories** : `recon` `web` `privesc`
+
 > **Date** : JJ/MM/AAAA
+
 > **Auteur** : [MrYXeL](https://github.com/MrYXeL)
 
 ---
